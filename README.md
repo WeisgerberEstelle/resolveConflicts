@@ -1,4 +1,4 @@
-# resolveConflicts REMOTE
+# resolveConflicts REMOTE 
 
 J'apprends à résoudre les conflits sur git et github
 
